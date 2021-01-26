@@ -1,5 +1,5 @@
 {
-    "name": "EmseDev/RenaterMail",
+    "name": "gruelt/laravelrenaterapi",
     "description": "Zimbra BSS api client",
     "type": "library",
     "require": {
