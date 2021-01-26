@@ -1,0 +1,21 @@
+{
+    "name": "EmseDev/RenaterMail",
+    "description": "Zimbra BSS api client",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "Thomas GRUEL",
+            "email": "gruel@emse.fr"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MinesDev\\RenaterMail\\ServiceProvider"
+            ]
+        }
+    }
+}
