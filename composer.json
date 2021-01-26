@@ -11,6 +11,11 @@
             "email": "gruel@emse.fr"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "gruelt\\laravelrenaterapi\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
