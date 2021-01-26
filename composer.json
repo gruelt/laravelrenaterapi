@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MinesDev\\RenaterMail\\ServiceProvider"
+                "gruelt\\laravelrenaterapi\\ServiceProvider"
             ]
         }
     }
