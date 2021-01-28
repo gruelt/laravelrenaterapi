@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MinesDev\RenaterMail;
+namespace gruelt\RenaterMail;
 use GuzzleHttp\Client;
 use SimpleXMLElement;
 
