@@ -1,6 +1,6 @@
 <?php
 
-namespace MinesDev\RenaterMail;
+namespace gruelt\RenaterMail;
 
 use Illuminate\Support\ServiceProvider;
 
