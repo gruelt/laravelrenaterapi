@@ -13,13 +13,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "gruelt\\laravelrenaterapi\\": "src/"
+            "gruelt\\RenaterMail\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "gruelt\\laravelrenaterapi\\RenaterServiceProvider"
+                "gruelt\RenaterMail\\RenaterServiceProvider"
             ]
         }
     }
