@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "gruelt\RenaterMail\\RenaterServiceProvider"
+                "gruelt\\RenaterMail\\RenaterServiceProvider"
             ]
         }
     }
